@@ -8,7 +8,7 @@ You first need to create an integration package where your new integration flow 
 
 <br>![](/exercises/ex1/images/01_Package_01.png)
 
-2. In the **Header** tab of your new integration pacakge, fill in the **Name** of the integration package, e.g. **User XX** where **XX** is your user number from 00 to 45. Furthermore, maintain a short **Description**. The technical name is automatically set. Then click **Save**.
+2. In the **Header** tab of your new integration package, fill in the **Name** of the integration package, e.g. **User XX** where **XX** is your user number from 00 to 45. Furthermore, maintain a short **Description**. The technical name is automatically set. Then click **Save**.
 
 <br>![](/exercises/ex1/images/01_Package_02.png)
 
@@ -28,6 +28,6 @@ You first need to create an integration package where your new integration flow 
 
 ## Summary
 
-Now that yuo have created a new integration pacakge and a new integration flow, you are all set to implement the integration logic.
+Now that you have created a new integration package and a new integration flow, you are all set to implement the integration logic.
 
-Continue to - [Step 2 - xxx](../ex2/README.md)
+Continue to - [Step 2 - Implement the integration flow](../ex2/README.md)
