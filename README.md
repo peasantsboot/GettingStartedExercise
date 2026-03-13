@@ -5,6 +5,20 @@ You will learn:
 - How to design and deploy an integration flow using the Cloud Integration designer.
 - How to design an integration flow to fetch data from an online web shop that is available as an OData service.
 
+## System Access
+
+For running through the tutorial, we provide the following SAP Integration Suite tenant. Logon data is provided by the instructors.
+
+[**Workshop tenant eu-02b**](https://workshop-eu-02b.integrationsuite-cpi035.cfapps.eu20-001.hana.ondemand.com/shell/home).
+
+## Exercise steps
+
+The exercise is divided into the following parts:
+- [Step 0 - Preparation](exercises/ex0/)
+- [Step 1 - Create an integration package and an integration flow](exercises/ex1/)
+- [Step 2 - Implement the integration flow](exercises/ex2/)
+- [Step 3 - Deploy and run the integration scenario](exercises/ex3/)
+
 # Containing Files
 
 1. The LICENSE file:
@@ -15,20 +29,6 @@ The [Reuse Tool](https://reuse.software/) must be used for your samples project.
 
 3. The README.md file (this file):
 Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
-
-# [Title]
-<!-- Please include descriptive title -->
-
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
-
-## Description
-<!-- Please include SEO-friendly description -->
-
-## Requirements
-
-## Download and Installation
 
 ## Known Issues
 <!-- You may simply state "No known issues. -->
