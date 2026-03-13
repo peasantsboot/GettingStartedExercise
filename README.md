@@ -1,5 +1,9 @@
-# SAP-samples/repository-template
-This default template for SAP Samples repositories includes files for README, LICENSE, and REUSE.toml. All repositories on github.com/SAP-samples will be created based on this template.
+# Design and Deploy Your First Integration Flow
+Design an integration flow in the Cloud Integration capability of SAP Integration Suite to integrate an online webshop that exposes data via OData service and fetch the product details.
+
+You will learn:
+- How to design and deploy an integration flow using the Cloud Integration designer.
+- How to design an integration flow to fetch data from an online web shop that is available as an OData service.
 
 # Containing Files
 
