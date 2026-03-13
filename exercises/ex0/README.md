@@ -38,4 +38,4 @@ In the SAP Integration Suite landing page, navigate to **Design > Integrations a
 
 Now that you have run through the preparation steps, you can start with the actual exercise.
 
-Continue to - [Exercise 1 - ](../ex1/README.md)
+Continue to - [Step 1 - Create an integration package and an integration flow](../ex1/README.md)
